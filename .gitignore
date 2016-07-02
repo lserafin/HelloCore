@@ -1,0 +1,7 @@
+# Visual Studio Code
+.vscode
+# Build results
+bin
+obj
+# .NET Core
+project.lock.json
